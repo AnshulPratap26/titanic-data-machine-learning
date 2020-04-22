@@ -1,0 +1,1 @@
+cleaned titanic data to build machine learning model program

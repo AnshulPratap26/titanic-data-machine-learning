@@ -1,0 +1,22 @@
+Decision Tree classifier:
+accuracy : 0.52%
+
+
+
+random forest tree classifier:
+accuracy : 0.54%
+
+
+
+logisticregression :
+accuracy : 0.58%
+
+
+
+KNNclassifier:
+accuracy : 0.62%
+
+
+
+naive bayes:
+accuray : 0.58%
